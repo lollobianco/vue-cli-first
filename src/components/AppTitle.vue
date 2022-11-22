@@ -1,17 +1,14 @@
 <template>
-   <div class="hello">
+   <div>
      
       <h1>La mia prima app con Vue CLI!</h1>
 
    </div>
- </template>
+</template>
  
  <script>
  export default {
    name: 'AppTitle',
-   props: {
-     msg: String
-   }
  }
  </script>
  
